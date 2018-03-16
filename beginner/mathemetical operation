@@ -1,0 +1,16 @@
+a=10
+b=2
+c=5
+d=6
+e=23
+f=12
+g=25
+h=11
+i=50
+j=100
+print(a+b+c+d+e+f+g+h+i)
+print(a-b-c-d-e-f-g-h-j)
+print(a*b*c*d*e*f*g*h*i*j)
+print(float(g/d))
+print(a%b%c%d%e%f%g%h%i%j)
+print(b**d)
