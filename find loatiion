@@ -1,0 +1,6 @@
+selvan= "program."
+print(selvan.find("g"))
+selvan="i love mellow ."
+print(selvan.replace('love','yellow'))
+selvan="program"
+print(selvan.count('r'))
