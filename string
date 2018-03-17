@@ -1,0 +1,7 @@
+ch = 'Hello Python'
+
+str1 = "String Chapter"
+
+print ("First value is: " ,  ch)
+
+print ("Second value is: " ,  str1)
