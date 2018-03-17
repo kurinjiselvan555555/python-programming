@@ -1,0 +1,7 @@
+a=21
+if(a>20):
+  print("a eligible for voting")
+elif(a<20):
+    print("a is eligible or not")
+  
+    
